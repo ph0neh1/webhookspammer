@@ -39,4 +39,5 @@ Add Python to your PATH environment variable. This can be done during the Python
 
 ## Credits
 Original author: cr.ghost (aka checkra1nz)
+
 ChatGPT for better formatting of readme.md and improving main.py
