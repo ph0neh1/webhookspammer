@@ -2,12 +2,15 @@
 ######
 Run start.bat as a adminstrator before running main.py
 
-If you do not want to run or cannot run start.bat then install the following modules and langauges.
+## Modules and Coding Langauges
+Discord Module, Requests Module, Pip Module, Python 3.8 and higher, and Batch.
 
-Discord Module
-Requests Module
-Pip Module
-Python 3.8 and higher
+## Tested and Supported Operating Systems
+start.bat is only usable for Windows operating machines
+
+main.py should work on any operating system that can run python
+
+**Windows 11 and 10 have been tested and are working as of 2023-08-19.**
 
 ## Current Issues
 
