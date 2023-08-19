@@ -1,26 +1,26 @@
 # Discord Webhook Spammer
-######
-Run start.bat as a adminstrator before running main.py
 
-## Modules and Coding Langauges
-Discord Module, Requests Module, Pip Module, Python 3.8 and higher, and Batch.
+## Introduction
+This script allows you to send messages repeatedly to a Discord webhook. Before you begin, follow the instructions below for setup and usage.
 
-## Windows Instructions
-Before you start make sure that you have python 3.8 or higher installed on your system and your also going to need to have pip3 installed, Also if have not already added Python to your PATH then do so.
+## Setup
 
-You can either use start.bat or manually install the required modules yourself
+### Prerequisites
+- Python 3.8 or higher installed on your system.
+- `pip3` installed.
+- Adding Python to your PATH.
 
-### Method 1 [Using start.bat]
-Right click start.bat and run as administrator or you can run CMD as administrator and cd to the directory with the scripts and run `start start.bat`
+### Method 1: Using start.bat
+1. Run `start.bat` as an administrator. You can either:
+   - Right-click `start.bat` and select "Run as administrator."
+   - Open Command Prompt as administrator, navigate to the script directory, and run `start start.bat`.
 
-### Method 2 [Manually install required Modules]
-You can copy and paste the commmands into CMD below to install the required modules with pip3
+### Method 2: Manual Module Installation
+1. Install the required modules using `pip3`:
+- Discord Module
+- Request Module
 
-`pip3 install Discord`
-
-`pip3 install requests`
-
-After you do that run a command prompt window as administrator and run one of the commands below [Make sure you pick the correct one for your system]
+2. Open your command line and run one of the following commands (choose the correct one for your system):
 
 `python main.py`
 
@@ -28,11 +28,14 @@ After you do that run a command prompt window as administrator and run one of th
 
 `python3 main.py`
 
-## Current Issues
 
-Problem : When running start.bat the tool will tell you that python is not installed even though it is installed
+## Known Issues
 
-Solution #1 : Add python to your PATH
+### Problem:
+When running `start.bat`, the tool incorrectly reports that Python is not installed, even though it is.
+
+### Solution:
+Add Python to your PATH environment variable. This can be done during the Python installation or by modifying your system's PATH settings.
 
 ## Credits
-cr.ghost aka checkra1nz
+Original author: cr.ghost (aka checkra1nz)
