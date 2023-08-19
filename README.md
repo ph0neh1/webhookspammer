@@ -15,5 +15,5 @@ Problem : When running start.bat the tool will tell you that python is not insta
 
 Solution #1 : Add python to your PATH
 
-
-created by cr.ghost aka checkra1nz also licensed with MIT
+## Credits
+cr.ghost aka checkra1nz
