@@ -27,3 +27,7 @@ This script allows you to send messages repeatedly to a Discord webhook. Before 
 Original author: cr.ghost (aka checkra1nz)
 
 ChatGPT for better formatting of readme.md and improving main.py
+
+## Problems
+I ran this script on Debian Linux (NO GUI) and it didn't work correctly and required manual fixxing
+I will create a Debian Linux ONLY edition soon
