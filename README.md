@@ -11,17 +11,7 @@ This script allows you to send messages repeatedly to a Discord webhook. Before 
 - Adding Python to your PATH.
 
 ### How to use
-1. Run `DWS` as an administrator or use sudo. You can either:
-   - Right-click `python main.py` and select "Run as administrator."
-   - run `sudo main.py`.
-
-2. Open your command line and run one of the following commands (choose the correct one for your system):
-
-`python main.py`
-
-`py main.py`
-
-`python3 main.py`
+Run the python script as a root user or use Sudo permissions.
 
 ## Credits
 Original author: cr.ghost (aka checkra1nz)
@@ -29,5 +19,4 @@ Original author: cr.ghost (aka checkra1nz)
 ChatGPT for better formatting of readme.md and improving main.py
 
 ## Problems
-I ran this script on Debian Linux (NO GUI) and it didn't work correctly and required manual fixxing
-I will create a Debian Linux ONLY edition soon
+Multiple operating systems doesn't run the script correctly
