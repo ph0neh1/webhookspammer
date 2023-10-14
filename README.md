@@ -1,7 +1,7 @@
 # Discord Webhook Spammer
 
 ## Introduction
-This script allows you to send messages repeatedly to a Discord webhook. Before you begin, follow the instructions below for setup and usage.
+This script allows you to send messages repeatedly through a Discord webhook. Before you begin, follow the instructions below for setup and usage.
 
 ## Setup
 
