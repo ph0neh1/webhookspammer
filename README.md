@@ -1,7 +1,7 @@
 # Discord Webhook Spammer
 
 ## Introduction
-This script allows you to send messages repeatedly through a Discord webhook. Before you begin, follow the instructions below for setup and usage. There is now a Graphical User Interferance avariable.
+An python scripts that repeatedly sends requests via a discord webhook to send messages. V2.0 has a GUI, any version under V1.20 does not contain a GUI.
 
 ## Setup
 In the new GUI, you may have to install Tkinter and customtkinter manually.
@@ -11,12 +11,10 @@ In the new GUI, you may have to install Tkinter and customtkinter manually.
 - `pip3` installed.
 - `tkinter` installed.
 - `customtkinter` installed.
-- Adding Python to your PATH.
+- If not already, Python added to your PATH.
 
 ### How to use
-Run the python script as a root user or use Sudo permissions.
+Simply run the script within the zip file, if it doesn't work try running with sudo permission.
 
 ## Credits
 Original author: cr.ghost (aka checkra1nz)
-
-ChatGPT for better formatting of readme.md and improving main.py
